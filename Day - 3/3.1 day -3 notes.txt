@@ -1,0 +1,15 @@
+100 - Days of Python Practice!
+
+Day - 3
+
+Useful sites 
+	-> F
+
+	***Topics***
+	
+	Conditional Statements, Logical Operators, Code Blocks and Scope	
+
+--Topics Covered--
+	
+	-> Conditional Statements - if-else,nested if-else,if elseif else
+	-> 

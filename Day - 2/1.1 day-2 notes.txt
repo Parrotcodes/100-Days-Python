@@ -1,0 +1,17 @@
+100 - Days of Python Practice!
+
+Day -2
+
+Useful sites 
+	-> Final result (Gained knowledge)
+		- https://replit.com/@appbrewery/tip-calculator-end
+	-> Result view link - https://repl.it/@appbrewery/day-2-start
+	-> Floating point arthematic referece notes - https://docs.python.org/3/tutorial/floatingpoint.html
+
+
+	***Topics***
+--Topics Covered--
+	Data Types,Numbers,Operations, Type Conversion, f-Strings
+	-> Floating point arthematic 
+	-> f-string and formater for floating points
+
