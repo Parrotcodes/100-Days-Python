@@ -1,0 +1,26 @@
+100 - Days of Python Practice!
+
+Day - 5
+
+Useful sites 
+	-> Thonny IDE for exe step by step visualization.
+
+	***Topics***
+	
+	For Loops,Range and Code blocks	
+
+--Topics Covered--
+	
+	-> for loop 
+	-> creating Methods using for-loop
+		-sum()
+		-len()
+		-max()
+		-min()
+	-> range()
+		-range(1,101) - 1-100
+		-range(1,101,3)
+	->Divisible by 3,5 and both print the message fizz,buzz and fizzbuzz instead of number
+	
+	->Project - Generating a Password!
+	
