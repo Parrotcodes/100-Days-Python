@@ -23,4 +23,6 @@ Useful sites
 	->Divisible by 3,5 and both print the message fizz,buzz and fizzbuzz instead of number
 	
 	->Project - Generating a Password!
-	
+		-random.shuffle()
+		-random.choice()
+		-append() --> adding char to the list 
